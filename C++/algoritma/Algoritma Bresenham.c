@@ -1,8 +1,4 @@
-/*
- Bresenham's Line & Circle Demo
- Chandra MDE - https://telinks.wordpress.com
- Kompilasi: $ gcc -o linecircle linecircle.c
-*/
+
 
 #include <stdlib.h>
 #include <string.h>
